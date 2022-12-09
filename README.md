@@ -12,12 +12,13 @@ t.Loop()
 
 # Jet Distributions
 
-![Screenshot (21)](https://user-images.githubusercontent.com/62266472/206789359-654d4474-a868-4b63-8208-7abe4a1696d4.png)
+![Screenshot (20)](https://user-images.githubusercontent.com/62266472/206789337-bc5a1030-76f5-4d4b-90fa-58a09a5d240e.png)
+
 
 # Higss Boson and Z Boson Distributions
 
-![Screenshot (20)](https://user-images.githubusercontent.com/62266472/206789337-bc5a1030-76f5-4d4b-90fa-58a09a5d240e.png)
+![Screenshot (22)](https://user-images.githubusercontent.com/62266472/206789250-d1e1e291-170e-4b51-a83a-22c0e3f1b656.png)
 
 # Higgs Boson and Z Boson Mass Distributions
 
-![Screenshot (22)](https://user-images.githubusercontent.com/62266472/206789250-d1e1e291-170e-4b51-a83a-22c0e3f1b656.png)
+![Screenshot (21)](https://user-images.githubusercontent.com/62266472/206789359-654d4474-a868-4b63-8208-7abe4a1696d4.png)
